@@ -37,8 +37,8 @@ print(sheet.title)                                                   Sheet3
 1-	I can easily track a cell in my table by using its name. Using  ‘’.value” will show the content of the cell.
 ```
 sheet1 = wb.get_sheet_by_name('Sheet1')
-print(sheet1['A2'].value)                       # This will output “Intensity” which is at first column and 
-                                                                       second row as defined.
+print(sheet1['A2'].value)           # This will output “Intensity” which is at first column and
+                                    second row as defined.
 ```
 We can also use a function called “cell()” which has two argument row and column:
 ```
@@ -60,7 +60,7 @@ sheet1 = wb.get_sheet_by_name('Sheet1')
 x6 = sheet1.columns[1]
 print(x6)
 for objects in x6:
-    print(objects.value)                 #This will output all the values of first column
+    print(objects.value)                #This will output all the values of first column
 ```
 
 ### Third Part:
@@ -90,7 +90,7 @@ import openpyxl
 wb = openpyxl.Workbook()
 sheet2 = wb.get_active_sheet()
 sheet2['A1'] = 'VALUE'              
-print(sheet2['A1'])                          #After saving, A1 cell will contain a value called “VALUE”
+print(sheet2['A1'])                 #After saving, A1 cell will contain a value called “VALUE”
 ```
 Worksheet objects have row_dimensions and column_dimensions attributes that
 help us to adjust widths and heights:
