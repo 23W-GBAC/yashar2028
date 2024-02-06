@@ -107,5 +107,5 @@ As the last part I am going to talk about its efficiency. This type of automatio
 
 Note: I wrote this project with the help of book called “AUTOMATE THE BORING STUFF WITH PYTHON”.
 
-All of the codes can be found in “Script.md”.  
+All of the codes can be found in “Script.py”.  
 
