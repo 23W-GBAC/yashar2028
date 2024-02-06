@@ -1,4 +1,4 @@
-```
+
 import openpyxl
 wb = openpyxl.load_workbook("Table.xlsx")
 print(type(wb))
@@ -55,4 +55,3 @@ sheet2.row_dimensions[1].height = 70
 sheet2.column_dimensions['B'].width = 20
 
 wb.save('example_copy.xlsx')
-```
