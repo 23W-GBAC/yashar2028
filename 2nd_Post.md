@@ -4,6 +4,7 @@ In this post, I am going to talk about the relationship between physical activit
 
 #### How is the brain affected?
 Physical activity has positive impact on both physical and mental health. Here we are focused mainly on the mental part. Anxiety and depression are the most prevalent mental disorders in the world and epidemiological studies have shown that physical exercise helps reduce these, knowing that production of serotonin, a neurotransmitter related to the control of emotions and moods, is increased by physical activity. An increase in this neurotransmitter reduces anxiety and depression, psychotic behavior and headaches. It is also believed that it can be a good therapy for treatment of addictive behaviors such as reducing appetite and to improve confidence, emotional stability, cognitive function and self-control.  Exercise (physical activity) also promotes brain plasticity by stimulating growth of new connections between cells in many important cortical areas of the brain, so it will be easier for brain to develop new neuronal connections.
+
 ##### Some benefits of exercise for brain:
 • Paying attention: The iAPF (part of the EEG test or electroencephalogram) that measures the ability to focus and pay attention which seems to go up after doing some intense exercise, but it doesn’t change that much after “steady state” exercise like a leisurely jog or bicycle ride.
 
@@ -22,10 +23,12 @@ Physical activity prevents age-related cognitive decline in healthy people, redu
 
 #### How much exercise is needed and what type of exercise is good:
 Aerobic physical activity or exercise requires oxygen to produce energy are known to be the best for brain. Performing aerobic exercise at an intensity of 50-70% of the maximum heart rate (equivalent to moderate intensity) has beneficial effects for the brain. In practice, these are activities that require some effort to perform (and must be tiring) but without being strenuous. This obviously depends on one’s individual physical condition and features. Examples of aerobic exercise are fast walking, running, riding a bike on flat or slight inclines, light swimming and even dancing at a good rhythm. Importantly, this should be considered that these physical activities must be done moderately. For example, according to studies, positive effects in reducing anxiety and depression are found when specific physical training programs are followed for at least 4 months. Both endurance activity (i.e., long-lasting aerobic activity, such as running) and resistance exercise (i.e., exercise in which the predominant activity involves pushing against a force) have been shown to induce an increase of circulating growth factors. Amount of exercise for each individual is mostly according to their potential but WHO recommends at least 150 minutes (2.5 hours) of moderate-intensity aerobic physical activity throughout the week.
+
 #### Epigenetics:
 It has been also acknowledged that physical activity is one of the factors that can induce epigenetic modifications.
 
 Epigenetics is the study of how genes interact with the environment and it has an essential role in neuroplasticity and memory processes. Environmental and biological factors and life habits can influence the activation of certain genes and affect the risk of developing certain diseases. For example, there are some kinds of RNA molecules called microRNAs and these molecules act as regulators of numerous processes in the central nervous system, such as cell proliferation, differentiation, apoptosis (cell death). Performing 4 weeks of physical exercise can induce epigenetic changes, meaning that it can prevent the activation of genes related to the appearance of diseases.
+
 ## Sum:
 To summarize, I found this picture indicating some brain benefits of exercise:
 
