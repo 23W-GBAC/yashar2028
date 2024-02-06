@@ -25,10 +25,10 @@ openpyxl.load_workbook("Table.xlsx")
 3-	Now I can get worksheets of my workbook simply by using “.get_sheets_name()” function or call them by name using  “.get_sheet_by_name()” function. We can use “.title” to see the title of a sheet.
 ```
 wb = openpyxl.load_workbook("Table.xlsx")
-print(wb.get_sheet_names())          #This will output all the sheets: ['Sheet1', 'Sheet2', 'Sheet3']
+print(wb.get_sheet_names())  #This will output all the sheets: ['Sheet1', 'Sheet2', 'Sheet3']
 
 sheet = wb.get_sheet_by_name('Sheet3')
-print(sheet)                         #This will output:  <Worksheet "Sheet3">
+print(sheet)                       #This will output:  <Worksheet "Sheet3">
 print(sheet.title)                                                   Sheet3
 
 ```
@@ -90,7 +90,7 @@ import openpyxl
 wb = openpyxl.Workbook()
 sheet2 = wb.get_active_sheet()
 sheet2['A1'] = 'VALUE'              
-print(sheet2['A1'])                 #After saving, A1 cell will contain a value called “VALUE”
+print(sheet2['A1'])           #After saving, A1 cell will contain a value called “VALUE”
 ```
 Worksheet objects have row_dimensions and column_dimensions attributes that
 help us to adjust widths and heights:
